@@ -73,7 +73,7 @@ Com base nos resultados observados no dashboard, algumas investigações adicion
 
 - Investigar quais fatores explicam o alto desempenho (vendas e lucro) do produto **Paseo**, como preços, canais de distribuição ou preferência regional.
 
-- Avaliar as vendas e lucro dos produtos com menor participação nas vendas para verificar possíveis oportunidades de reposicionamento ou descontinuação.
+- Avaliar o lucro dos produtos com menor participação nas vendas para verificar possíveis oportunidades de reposicionamento ou descontinuação.
 
 - Investigar os fatores que contribuem para o maior lucro observado no **quarto trimestre**, como sazonalidade, campanhas comerciais ou ciclos orçamentários de clientes.
 
