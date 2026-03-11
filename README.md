@@ -70,5 +70,5 @@ A análise dos dados permitiu identificar alguns pontos importantes:
 
 ---
 
-## Autor
+## Autora
 Priscila Oliveira
