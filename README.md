@@ -21,14 +21,11 @@ O relatório permite explorar os dados por:
 
 ## Arquivos
 
-- **README.md**
-
+- **README**
   Documentação do projeto, descrição, estrutura do relatório e principais insights
 - **Dashboard-financeiro-BI.pbix**
-
   Arquivo do Power BI contendo o dashboard interativo desenvolvido para análise de desempenho comercial.
 - **Dashboard-financeiro-BI.png**
-
   Devido às limitações de publicação do Power BI Service para contas pessoais, uma prévia do dashboard pode ser visualizado através deste arquivo .png.
 
 ---
@@ -70,5 +67,19 @@ A análise dos dados permitiu identificar alguns pontos importantes:
 
 ---
 
-## Autora
+## Possíveis Direções de Análise
+
+Com base nos resultados observados no dashboard, algumas investigações adicionais poderiam ser realizadas para aprofundar a compreensão do desempenho comercial:
+
+- Investigar quais fatores explicam o alto desempenho (vendas e lucro) do produto **Paseo**, como preços, canais de distribuição ou preferência regional.
+
+- Avaliar as vendas e lucro dos produtos com menor participação nas vendas para verificar possíveis oportunidades de reposicionamento ou descontinuação.
+
+- Investigar os fatores que contribuem para o maior lucro observado no **quarto trimestre**, como sazonalidade, campanhas comerciais ou ciclos orçamentários de clientes.
+
+- Explorar possíveis diferenças de lucro entre países para avaliar potenciais oportunidades de expansão entre eles.
+
+---
+
+## Autor
 Priscila Oliveira
