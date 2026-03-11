@@ -21,11 +21,14 @@ O relatório permite explorar os dados por:
 
 ## Arquivos
 
-- **README**
+- **README.md**
+
   Documentação do projeto, descrição, estrutura do relatório e principais insights
 - **Dashboard-financeiro-BI.pbix**
+
   Arquivo do Power BI contendo o dashboard interativo desenvolvido para análise de desempenho comercial.
 - **Dashboard-financeiro-BI.png**
+
   Devido às limitações de publicação do Power BI Service para contas pessoais, uma prévia do dashboard pode ser visualizado através deste arquivo .png.
 
 ---
